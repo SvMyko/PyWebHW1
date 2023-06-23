@@ -1,4 +1,3 @@
-# Nagini_team
 
 Hello, you are greeted by the Personal assistant bot, made by the "Nagini" development team.
 The personal assistant console program can implement the following functionality:
